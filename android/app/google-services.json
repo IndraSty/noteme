@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "271496468793",
+    "project_id": "noteme-02",
+    "storage_bucket": "noteme-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271496468793:android:a9d35c9d1769b4007df0e8",
+        "android_client_info": {
+          "package_name": "com.example.noteme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271496468793-0q5du323m7o28gid6li04b5m4m7s3f8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDL2gegOtvlDhJg1akBnREmrRmwEmZSqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271496468793-0q5du323m7o28gid6li04b5m4m7s3f8c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "271496468793-6fkcrq85a13kec28efj02rmh6f73d7mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noteme.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
