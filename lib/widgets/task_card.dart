@@ -1,10 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+<<<<<<< HEAD
 import '../components/color_style.dart';
 import '../components/screen_size.dart';
 
 // ignore: must_be_immutable
+=======
+import '../constant/color_constant.dart';
+import '../constant/screen_size.dart';
+
+>>>>>>> 75d05f9b86c7e77e973131dbd695befd4b9b6428
 class TaskCard extends StatelessWidget {
   TaskCard({
     super.key,

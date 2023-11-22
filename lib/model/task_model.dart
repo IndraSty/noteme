@@ -1,4 +1,5 @@
 class Task {
+<<<<<<< HEAD
   final int id;
   final String title;
   final String todoText;
@@ -8,6 +9,14 @@ class Task {
   final String userId;
   final DateTime createdAt;
   final DateTime updatedAt;
+=======
+  String? id;
+  String? title;
+  String? todoText;
+  String? time;
+  String? category;
+  bool? isDone;
+>>>>>>> 75d05f9b86c7e77e973131dbd695befd4b9b6428
 
   Task({
     required this.id,
@@ -16,6 +25,7 @@ class Task {
     required this.time,
     required this.category,
     required this.isDone,
+<<<<<<< HEAD
     required this.userId,
     required this.createdAt,
     required this.updatedAt,
@@ -34,4 +44,7 @@ class Task {
       updatedAt: DateTime.parse(json['updatedAt']),
     );
   }
+=======
+  });
+>>>>>>> 75d05f9b86c7e77e973131dbd695befd4b9b6428
 }

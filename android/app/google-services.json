@@ -29,6 +29,7 @@
             {
               "client_id": "271496468793-0q5du323m7o28gid6li04b5m4m7s3f8c.apps.googleusercontent.com",
               "client_type": 3
+<<<<<<< HEAD
             },
             {
               "client_id": "271496468793-6fkcrq85a13kec28efj02rmh6f73d7mr.apps.googleusercontent.com",
@@ -36,6 +37,8 @@
               "ios_info": {
                 "bundle_id": "com.example.noteme.RunnerTests"
               }
+=======
+>>>>>>> 75d05f9b86c7e77e973131dbd695befd4b9b6428
             }
           ]
         }
